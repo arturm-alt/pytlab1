@@ -1,0 +1,10 @@
+image_1.png	https://knu.ua/pdfs/dep/fb.png	Економічний факультет
+image_2.png	https://knu.ua/ua/departments/economics/gallery/gerb3.png	Економічний факультет
+image_3.png	https://knu.ua/pdfs/dep/fb.png	Факультет інформаційних технологій
+image_4.png	https://knu.ua/pdfs/dep/yt.png	Факультет інформаційних технологій
+image_5.png	https://knu.ua/ua/departments/it/gallery/gerb3.png	Факультет інформаційних технологій
+image_6.png	https://knu.ua/pdfs/dep/fb.png	Факультет соціології
+image_7.png	https://knu.ua/pdfs/dep/ig.png	Факультет соціології
+image_8.png	https://knu.ua/pdfs/dep/yt.png	Факультет соціології
+image_9.png	https://knu.ua/pdfs/dep/tt.png	Факультет соціології
+image_10.png	https://knu.ua/ua/departments/sociology/gallery/gerb3.png	Факультет соціології
