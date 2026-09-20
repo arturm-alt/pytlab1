@@ -1,0 +1,248 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+  <title>Факультет соціології</title>
+  
+    <base href="https://knu.ua"/>
+		<link rel="StyleSheet" href="/main.css" type="text/css"/>
+		<link rel="alternate" type="application/rss+xml"  href="http://knu.ua/ua/test/rss">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta charset="UTF-8"/>
+    <link rel="shortcut icon" href="favicon.ico">
+    <script type="text/javascript" src="/src/jquery-1.7.2.min.js"></script>
+    
+    
+    
+	</head>
+	<body class="b-page" >
+    <div class="b-head">
+			<div class="b-head__section">
+				<div class="b-head__section-holder">
+          <ul class="b-menu">
+	<li class="b-menu__item">
+		<a href="/ua/#geninf" class="b-menu__link">Інформація</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#dep" class="b-menu__link">Підрозділи університету
+		</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#abit" class="b-menu__link">Абітурієнтам</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#science" class="b-menu__link">Наука</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#stud" class="b-menu__link">Студентам</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#resources" class="b-menu__link">Ресурси</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#news" class="b-menu__link">Новини</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/blank_search/" class="b-menu__link">Пошук</a>
+	</li>
+
+
+ 
+</ul>
+					<ul class="b-menu__languages">
+																									<!--li class="b-menu__languages-item">
+								<a href="/ru/departments/sociology/gallery/gerb3.png" class="b-menu__languages-link">
+									ru
+								</a>
+							</li-->
+																			<li class="b-menu__languages-item">
+								<a href="/en/departments/sociology/gallery/gerb3.png" class="b-menu__languages-link">
+									en
+								</a>
+							</li>
+											</ul>
+				</div>
+			</div>
+			<div class="b-logo">
+				<a href="/ua/" class="b-logo__logo-holder">
+					<!--<p class="b-logo__logo-title">
+						Київський Національний Університет імені Тараса Шевченка
+					</p>-->
+				</a>
+			</div>
+		</div>
+<div class="b-body">
+  <div class="b-body__holder">
+
+<h2 class="b-body__title">Факультет соціології</h2>
+
+<p class="b-body__text">
+Найбільший та найпотужніший центр соціологічної освіти в Україні. Факультет творить історію української соціології власноруч. Тут працюють відомі українські соціологи; тут навчають бачити зміни в суспільстві, розуміти їхні причини та критично оцінювати їхні наслідки. Студенти здобувають наукові методи пошуку, збору та аналізу даних, опановують фахові комп’ютерні програми та новітні інформаційні технології. 
+</p>
+
+<p class="b-body__text">
+Освіта, котру пропонує факультет, – це оптимальне поєднання соціально-гуманітарного знання і прикладних аналітичних умінь. Як свідчать результати опитувань, для 97 % випускників здобута освіта стала важливим плюсом у їхній кар’єрі, а якби їм ще раз довелося обирати, 79 % знову обрали б соціологію; 61 % випускників працюють за фахом.
+</p>
+
+<h3 class="b-references__title">Спеціальності та освітні програми ОС Бакалавр:</h3>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">C5 Соціологія</td>
+<td>
+<ul>
+<li>Соціологія (Д/З)</li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+&nbsp;
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D3 Менеджмент</td>
+<td>
+<ul>
+<li>Менеджмент культурних та креативних індустрій (з обов&#39;язковим вивченням двох іноземних мов) (Д/З)</li>
+<li>Менеджмент культурних та креативних індустрій (з обов'язковим вивченням двох іноземних мов) (Вступ на основі ОКР молодшого спеціаліста, освітньо-професійного ступеня фахового молодшого бакалавра, освітнього ступеня молодшого бакалавра) (Д)</li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+&nbsp;
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Спеціальності та освітні програми ОС Магістр:</h3>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">C5 Соціологія</td>
+<td>
+<ul>
+<li>Прикладна соціологія (З)</li>
+<li>Соціологія (Д)</li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+&nbsp;
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Спеціальності та освітньо-наукові програми, за якими здійснюється підготовка докторів філософії:</h3>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">C5 Соціологія / Sociology</td>
+<td>
+<ul>
+<li>Соціологія / Sociology (Д/З)</li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+&nbsp;
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Галузь знань та наукові спеціальності, за якими здійснюється підготовка докторів наук:</h3>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">22 Соціологічні науки</td>
+<td>
+<ul>
+<li>22.00.04 Спеціальні та галузеві соціології (Д)</li>
+</ul>
+</td></tr>
+</tbody>
+</table>
+&nbsp;
+
+<span class="b-body__text">* Д - денна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Кафедри:</h3>
+<ol>
+<li class="b-body__text">Кафедра галузевої соціології</li>
+<li class="b-body__text">Кафедра методології та методів соціологічних досліджень</li>
+<li class="b-body__text">Кафедра соціальних структур та соціальних відносин</li>
+<li class="b-body__text">Кафедра теорії та історії соціології</li> 
+</ol>
+
+<h3 class="b-references__title">Інші підрозділи:</h3>
+<ul class="b-references__holder">           
+<li class="b-references__dash">Інформаційно-обчислювальний сектор</li>
+</ul>
+
+<h3 class="b-references__title">Гуртожитки</h3>
+<p class="b-body__text">Іногородні студенти факультету проживають у <a class="b-body__link" href="http://studmisto.knu.ua/dormitory-3" target="_blank">гуртожитку № 3</a> та <a class="b-body__link" href="http://studmisto.knu.ua/dormitory-12" target="_blank">гуртожитку № 12</a>.<br />
+Іногородні аспіранти факультету проживають у <a class="b-body__link" href="http://studmisto.knu.ua/dormitory-12" target="_blank">гуртожитку № 12</a>.
+</p>
+
+<div class="clearfix">
+<div class="img-thumbnail gmap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1272.0398232673683!2d30.471858759194618!3d50.38371379431648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xad3dd972290c72a1!2z0JrQuNGX0LLRgdGM0LrQuNC5INC90LDRhtGW0L7QvdCw0LvRjNC90LjQuSDRg9C90ZbQstC10YDRgdC40YLQtdGCINGW0LzQtdC90ZYg0KLQsNGA0LDRgdCwINCo0LXQstGH0LXQvdC60LAsINGE0LDQutGD0LvRjNGC0LXRgiDRgdC-0YbRltC-0LvQvtCz0ZbRlw!5e0!3m2!1suk!2sua!4v1490715274994" width="550" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+<div class="cont_inf">
+<h3 class="b-references__title">Контактна інформація:</h3>
+<p class="b-body__text">
+<a class="b-body__link" href="/ua/departments/sociology/admin/">Адміністрація факультету</a>
+</p>
+<p class="b-body__text"><span class="b-body__strong">Адреса:</span> Факультет соціології
+Київського національного університету імені Тараса Шевченка<br />
+просп. Академіка Глушкова, 4Д, м. Київ,
+03022
+</p>
+<p class="b-body__text"><span class="b-body__strong">Тел.:</span> +38 (044) 521-32-63<br/>
+<span class="b-body__strong">Факс:</span> +38 (044) 521-32-63
+</p>
+<p class="b-body__text"><span class="b-body__strong">E-mail:</span> <a class="b-body__link" href="mailto:sociology@knu.ua">sociology@knu.ua</a><br />
+<span class="b-body__strong">Web:</span> <a class="b-body__link" href="https://sociology.knu.ua/" target="_blank">sociology.knu.ua</a>
+</p>
+<a class="b-body__link" href="https://www.facebook.com/soc.knu" target="_blank"><img src="/pdfs/dep/fb.png" alt="Офіційна сторінка факультету соціології у соціальній мережі Facebook"></a>&nbsp;
+<a class="b-body__link" href="https://www.instagram.com/soc_knu/#" target="_blank"><img src="/pdfs/dep/ig.png" alt="Офіційна сторінка факультету соціології у соціальній мережі Instagram"></a>&nbsp;
+<a class="b-body__link" href="https://www.youtube.com/user/knusoc" target="_blank"><img src="/pdfs/dep/yt.png" alt="Офіційна сторінка факультету соціології у мережі Youtube"></a>
+&nbsp;
+<a class="b-body__link" href="https://www.tiktok.com/@soc_knu" target="_blank"><img src="/pdfs/dep/tt.png" alt="Офіційна сторінка факультету соціології у соціальній мережі TikTok"></a>
+</div>
+</div>
+
+  </div>
+</div>
+<div class="b-foot">
+	<div class="b-foot__holder">
+		<img src="gallery/gerb3.png" alt="" class="b-foot__emblem" />
+		<!--a href="http://icc.univ.kiev.ua" class="b-foot__link">Інформаційно-обчислювальний центр університету </a-->
+		<span class="b-foot__link">Інформаційно-обчислювальний центр університету </span>
+    <div style="color: #999; margin: 30px 30px 0; font-size:0.9em; float: right;"> 
+    <p  style="margin-top:0">© Всі права захищені 1995-2026</p>
+    <!--p  style="margin-top:0"><a style="color:#999" href="http://maplos.com" title="Пошук послуг та адрес">Карта Києва з пошуком</a></p-->
+    </div>
+	</div>
+<!-- Google Universal Analytics -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70312040-1', 'auto');
+  ga('require', 'linkid');
+  ga('send', 'pageview');
+
+</script>
+
+</div>
+

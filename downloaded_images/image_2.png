@@ -1,0 +1,438 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+  <title>Економічний факультет</title>
+  
+    <base href="https://knu.ua"/>
+		<link rel="StyleSheet" href="/main.css" type="text/css"/>
+		<link rel="alternate" type="application/rss+xml"  href="http://knu.ua/ua/test/rss">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta charset="UTF-8"/>
+    <link rel="shortcut icon" href="favicon.ico">
+    <script type="text/javascript" src="/src/jquery-1.7.2.min.js"></script>
+    
+    
+    
+	</head>
+	<body class="b-page" >
+    <div class="b-head">
+			<div class="b-head__section">
+				<div class="b-head__section-holder">
+          <ul class="b-menu">
+	<li class="b-menu__item">
+		<a href="/ua/#geninf" class="b-menu__link">Інформація</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#dep" class="b-menu__link">Підрозділи університету
+		</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#abit" class="b-menu__link">Абітурієнтам</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#science" class="b-menu__link">Наука</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#stud" class="b-menu__link">Студентам</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#resources" class="b-menu__link">Ресурси</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/#news" class="b-menu__link">Новини</a>
+	</li>
+	<li class="b-menu__item">
+		<a href="/ua/blank_search/" class="b-menu__link">Пошук</a>
+	</li>
+
+
+ 
+</ul>
+					<ul class="b-menu__languages">
+																									<!--li class="b-menu__languages-item">
+								<a href="/ru/departments/economics/gallery/gerb3.png" class="b-menu__languages-link">
+									ru
+								</a>
+							</li-->
+																			<li class="b-menu__languages-item">
+								<a href="/en/departments/economics/gallery/gerb3.png" class="b-menu__languages-link">
+									en
+								</a>
+							</li>
+											</ul>
+				</div>
+			</div>
+			<div class="b-logo">
+				<a href="/ua/" class="b-logo__logo-holder">
+					<!--<p class="b-logo__logo-title">
+						Київський Національний Університет імені Тараса Шевченка
+					</p>-->
+				</a>
+			</div>
+		</div>
+<div class="b-body">
+  <div class="b-body__holder">
+
+<h2 class="b-body__title">Економічний факультет</h2>
+
+<p class="b-body__text">
+Один з провідних в Україні осередків з підготовки економістів та менеджерів вищої кваліфікації, розробки та реалізації стратегічних напрямів розвитку вищої економічної освіти в Україні, в тому числі в системі класичних університетів. Факультет постійно тримає лідерські позиції у всіх міжнародних рейтингах закладів вищої освіти України, у рейтингах роботодавців України за економічними спеціальностями, перший за галузевим рейтингом журналу Forbes.
+</p>
+
+<h3 class="b-references__title">Спеціальності та освітні програми ОС Бакалавр:</h3>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%"><strong>С1 Економіка та міжнародні економічні відносини</strong><br />С1.01 Економіка</td>
+<td>
+<ul>
+<li>Економіка (Д)</li>
+<li>Економіка (мова навчання англійська/українська) / Economics (Д)</li>
+<li>Економічна аналітика (Д)</li>
+<li>Економічна кібернетика (Д)</li>
+<li>Міжнародна економіка (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">СD88 Економіка та міжнародні економічні відносини / Менеджмент</td>
+<td>
+<ul>
+<li>Економіка та управління бізнесом (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D1 Облік і оподаткування</td>
+<td>
+<ul>
+<li>Облік і оподаткування (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D2 Фінанси, банківська справа, страхування та фондовий ринок</td>
+<td>
+<ul>
+<li>Фінанси (Д)</li>
+<li>Фінансовий бізнес (Д/З)</li>
+<li>Фінанси (Вступ на основі ОКР молодшого спеціаліста, освітньо-професійного ступеня фахового молодшого бакалавра, освітнього ступеня молодшого бакалавра) (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D3 Менеджмент</td>
+<td>
+<ul>
+<li>Менеджмент організацій (Д)</li>
+<li>Менеджмент підприємницької діяльності (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D5 Маркетинг</td>
+<td>
+<ul>
+<li>Маркетинг (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Спеціальності та освітні програми ОС Магістр:</h3>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%"><strong>С1 Економіка та міжнародні економічні відносини</strong><br />С1.01 Економіка</td>
+<td>
+<ul>
+<li>Економіка та економічна політика (Д)</li>
+<li>Економіка та політика (мова навчання англійська/українська) / Economics and Politics (Д)</li>
+<li>Економічна аналітика (Д)</li>
+<li>Економічна кібернетика (Д)</li>
+<li>Міжнародна економіка (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">СD88 Економіка та міжнародні економічні відносини / Менеджмент</td>
+<td>
+<ul>
+<li>Економіка та управління бізнесом (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D1 Облік і оподаткування</td>
+<td>
+<ul>
+<li>Облік, оподаткування та контроль (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D2 Фінанси, банківська справа, страхування та фондовий ринок
+</td>
+<td>
+<ul>
+<li>Корпоративні фінанси (Д/З)</li>
+<li>Фінанси публічного сектору / Public Sector Finance (З можливістю подвійного дипломування разом з Норд Університетом, Норвегія) (Д)</li>
+<li>Фінансові інститути управління ризиками (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D3 Менеджмент</td>
+<td>
+<ul>
+<li>Бізнес-консалтинг (Д)</li>
+<li>Менеджмент інноваційної діяльності (Д)</li>
+<li>Менеджмент організацій (Д/З)</li>
+<li>Менеджмент підприємницької діяльності (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D5 Маркетинг</td>
+<td>
+<ul>
+<li>Бізнес-адміністрування і консультування (мова навчання англійська/українська)
+З можливістю подвійного дипломування з Університетом Мачерата, Італія (Д)</li>
+<li>Маркетинг (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Спеціальності та освітньо-наукові програми, за якими здійснюється підготовка докторів філософії:</h3>
+
+<tbody>
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">C1 Економіка міжнародні економічні відносини Economics, international economic relations</td>
+<td>
+<ul>
+<li>Економіка / Economics (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D1 Облік і оподаткування / Accounting and Taxation</td>
+<td>
+<ul>
+<li>Облік і оподаткування/Accounting and
+Taxation (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D2 Фінанси, банківська справа, страхування
+та фондовий ринок / Finance, Banking and Insurance</td>
+<td>
+<ul>
+<li>Фінанси, банківська справа та страхування / Finance, Banking and Insurance (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D3 Менеджмент / Management</td>
+<td>
+<ul>
+<li>Менеджмент / Management (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">D5 Маркетинг / Marketing</td>
+<td>
+<ul>
+<li>Маркетинг / Marketing (Д/З)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання<br />
+** З - заочна форма навчання</span><br />
+<p>&nbsp;</p>
+
+<h3 class="b-references__title">Галузь знань та наукові спеціальності, за якими здійснюється підготовка докторів наук:</h3>
+
+<tbody>
+<table class="blueTable" width="100%" border="0" cellpadding="10">
+<tr bgcolor="#EEEEEE">
+<td width="50%">08 Економічні науки</td>
+<td>
+<ul>
+<li>08.00.01 Економічна теорія та історія економічної думки (Д)</li>
+<li>08.00.03 Економіка та управління національним господарством (Д)</li>
+<li>08.00.04 Економіка та управління підприємствами (за видами економічної діяльності) (Д)</li>
+</ul>
+</td></tr>
+</table>
+
+<span class="b-body__text">* Д - денна форма навчання/span><br />
+<p>&nbsp;</p>
+
+
+<h3 class="b-references__title">Кафедри:</h3>
+<ol>
+<li class="b-body__text">Кафедра екологічного менеджменту та підприємництва</li> 
+<li class="b-body__text">Кафедра економіки підприємства</li> 
+<li class="b-body__text">Кафедра економічної кібернетики</li> 
+<li class="b-body__text">Кафедра економічної теорії, макро- і
+мікроекономіки</li> 
+<li class="b-body__text">Кафедра іноземних мов</li> 
+<li class="b-body__text">Кафедра маркетингу і бізнес-адміністрування</li> 
+<li class="b-body__text">Кафедра менеджменту інноваційної
+та інвестиційної діяльності</li> 
+<li class="b-body__text">Кафедра міжнародної економіки</li>
+<li class="b-body__text">Кафедра обліку та аудиту</li> 
+<li class="b-body__text">Кафедра статистики, інформаційно-
+аналітичних систем та демографії</li>  
+<li class="b-body__text">Кафедра страхування, банківської
+справи та ризик-менеджменту</li> 
+<li class="b-body__text">Кафедра фінансів</li>
+</ol>
+
+<h3 class="b-references__title">Гуртожитки</h3>
+<p class="b-body__text">Іногородні студенти факультету проживають у <a class="b-body__link" href="http://studmisto.knu.ua/dormitory-10" target="_blank">гуртожитку № 10</a>.<br />
+Іногородні аспіранти факультету проживають у <a class="b-body__link" href="http://studmisto.knu.ua/dormitory-12" target="_blank">гуртожитку № 12</a>.
+</p>
+
+<div class="clearfix">
+<div class="img-thumbnail gmap">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1271.8941169049924!2d30.480338882631653!3d50.389146085358966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc87c15434d780542!2z0JXQutC-0L3QvtC80ZbRh9C90LjQuSDRhNCw0LrRg9C70YzRgtC10YIg0JrQndCjINGW0LwuINCi0LDRgNCw0YHQsCDQqNC10LLRh9C10L3QutCw!5e0!3m2!1suk!2sua!4v1490716342774" width="550" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+<div class="cont_inf">
+<h3 class="b-references__title">Контактна інформація:</h3>
+<p class="b-body__text">
+<a class="b-body__link" href="/ua/departments/economics/admin/">Адміністрація факультету</a>
+</p>
+<p class="b-body__text"><span class="b-body__strong">Адреса:</span> Економічний факультет Київського
+національного університету імені Тараса
+Шевченка<br />
+вул. Васильківська, 90А, м. Київ, 03022
+</p>
+<p class="b-body__text"><span class="b-body__strong">Тел.:</span> +38 (044) 521-35-78<br/>
+<span class="b-body__strong">Факс:</span> +38 (044) 521-35-78
+</p>
+<p class="b-body__text"><span class="b-body__strong">E-mail:</span> <a class="b-body__link" href="mailto:econom@knu.ua">econom@knu.ua</a><br />
+<span class="b-body__strong">Web:</span> <a class="b-body__link" href="https://econom.knu.ua/" target="_blank">econom.knu.ua</a>
+</p>
+<a class="b-body__link" href="https://www.facebook.com/economKNU/?ref=br_rs" target="_blank"><img src="/pdfs/dep/fb.png" alt="Офіційна сторінка економічного факультету у соціальній мережі Facebook"></a> 
+</div>
+</div>
+
+  </div>
+</div>
+<div class="b-foot">
+	<div class="b-foot__holder">
+		<img src="gallery/gerb3.png" alt="" class="b-foot__emblem" />
+		<!--a href="http://icc.univ.kiev.ua" class="b-foot__link">Інформаційно-обчислювальний центр університету </a-->
+		<span class="b-foot__link">Інформаційно-обчислювальний центр університету </span>
+    <div style="color: #999; margin: 30px 30px 0; font-size:0.9em; float: right;"> 
+    <p  style="margin-top:0">© Всі права захищені 1995-2026</p>
+    <!--p  style="margin-top:0"><a style="color:#999" href="http://maplos.com" title="Пошук послуг та адрес">Карта Києва з пошуком</a></p-->
+    </div>
+	</div>
+<!-- Google Universal Analytics -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70312040-1', 'auto');
+  ga('require', 'linkid');
+  ga('send', 'pageview');
+
+</script>
+
+</div>
+
