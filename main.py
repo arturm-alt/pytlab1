@@ -1,6 +1,6 @@
-import os
 import csv
 import json
+import os
 import sqlite3
 import xml.etree.ElementTree as ET
 from urllib.parse import urljoin
@@ -91,9 +91,23 @@ for dep in departments[:3]:
     for img_tag in dep_soup.find_all("img", src=True):
         img_url = urljoin(dep["url"], img_tag["src"])
         try:
-            img_data = requests.get(img_url, headers=HEADERS, timeout=5).content
-            ext = img_url.split(".")[-1].split("?")[0]
-            if ext.lower() not in ["jpg", "jpeg", "png", "gif", "svg", "webp"]:
+            img_response = requests.get(img_url, headers=HEADERS, timeout=5)
+            content_type = img_response.headers.get("Content-Type", "")
+            
+            if "image" not in content_type:
+                continue
+                
+            img_data = img_response.content
+            
+            if "png" in content_type:
+                ext = "png"
+            elif "gif" in content_type:
+                ext = "gif"
+            elif "webp" in content_type:
+                ext = "webp"
+            elif "svg" in content_type:
+                ext = "svg"
+            else:
                 ext = "jpg"
                 
             filename = f"image_{img_counter}.{ext}"
